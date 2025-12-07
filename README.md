@@ -152,17 +152,11 @@ An interactive dashboard was built to visually summarize:
 
 ## 📈 **Dashboard Preview**
 
-*(Add a screenshot here later if you want)*
 
-```
-📌 To add a screenshot:
-1. Upload the PNG/JPG to your repo
-2. Copy its raw GitHub URL
-3. Place it here using:
-![Dashboard](URL)
-```
+![Dashboard](https://raw.githubusercontent.com/pranavkumarreddy69/customer_behaviour_analysis/main/dashboard.png.png)
 
----
+
+
 
 ## 🔍 **Key Insights**
 
